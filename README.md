@@ -28,3 +28,6 @@ This project demonstrates a Small Office/Home Office (SOHO) network designed and
 - VLANs
 - Subnetting
 - Troubleshooting connectivity issues
+
+## Network Topology
+![Topology](screenshots/.png)
