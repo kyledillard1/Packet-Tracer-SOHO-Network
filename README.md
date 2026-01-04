@@ -20,7 +20,7 @@ This project demonstrates a Small Office/Home Office (SOHO) network designed and
 - VLAN 20 – Printers: 192.168.20.0/24
 
 ## How to Open
-1. Download the `.pkt` file
+1. Download the `.pkz` file
 2. Open it using Cisco Packet Tracer (v8.x or newer)
 
 ## Skills Demonstrated
