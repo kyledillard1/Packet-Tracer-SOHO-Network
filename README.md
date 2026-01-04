@@ -30,4 +30,4 @@ This project demonstrates a Small Office/Home Office (SOHO) network designed and
 - Troubleshooting connectivity issues
 
 ## Network Topology
-![Topology](screenshots/.Network Topology Screenshot.png)
+![Topology](screenshots/.NetworkTopologyScreenshot.png)
