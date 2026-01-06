@@ -33,7 +33,9 @@ This project demonstrates a Small Office/Home Office (SOHO) network designed and
 - [SOHO Network Design & Troubleshooting (PDF)](documentation/SOHO-Network-Documentation.pdf)
 
 ## Screenshots
-- [SOHO Connectivity Tests]
+## Screenshots
+All project screenshots (topology, VLAN configuration, printer testing) can be found here:  
+
 
 
 ## Network Topology
