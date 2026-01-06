@@ -16,8 +16,8 @@ This project demonstrates a Small Office/Home Office (SOHO) network designed and
 - Network printer
 
 ## IP Addressing
-- VLAN 10 – Users: 192.168.10.0/24
-- VLAN 20 – Printers: 192.168.20.0/24
+- VLAN 10 – Users and Printer: 192.168.10.0/24
+- VLAN 20 – Users and Printer: 192.168.20.0/24
 
 ## How to Open
 1. Download the `.pkz` file above
