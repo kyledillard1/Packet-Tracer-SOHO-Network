@@ -33,8 +33,8 @@ This project demonstrates a Small Office/Home Office (SOHO) network designed and
 - [SOHO Network Design & Troubleshooting (PDF)](documentation/SOHO-Network-Documentation.pdf)
 
 ## Screenshots
-## Screenshots
-All project screenshots (topology, VLAN configuration, printer testing) can be found here:  
+All project screenshots (topology, VLAN configuration, conenctivity tests) can be found here: 
+https://github.com/kyledillard1/Packet-Tracer-SOHO-Network/tree/main/screenshots
 
 
 
