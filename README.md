@@ -1,6 +1,6 @@
 # SOHO Network – Cisco Packet Tracer
 
-## Overview
+## 📌 Project Overview
 This project demonstrates a Small Office/Home Office (SOHO) network designed and configured using Cisco Packet Tracer.
 
 ## Network Features
